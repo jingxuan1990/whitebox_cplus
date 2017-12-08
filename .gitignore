@@ -67,5 +67,5 @@ CTestTestfile.cmake
 cmake-build-debug
 
 #RUNTIME
-*.stackdump
-*.cbp
+whiteboxgen.exe.stackdump
+ntl.cbp
